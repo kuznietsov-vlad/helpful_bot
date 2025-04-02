@@ -5,6 +5,6 @@ The bot that will hrlp you with daily task
 1) Install Python
 2) Run code with command
 
-'''bush
+'''bash
 python main.py
 '''
